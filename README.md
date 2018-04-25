@@ -1,2 +1,2 @@
 # 效果预览
-Rain/NumRain/demo.gif
+https://github.com/pengjiaqii/Rain/NumRain/demo.gif
