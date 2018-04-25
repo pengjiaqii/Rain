@@ -1,2 +1,2 @@
-# Rain预览
-https://github.com/pengjiaqii/Rain/NumRain/demo.gif
+# 效果预览
+Rain/NumRain/demo.gif
