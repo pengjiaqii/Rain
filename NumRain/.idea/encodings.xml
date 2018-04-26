@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jade/view/loadview/OnLoadProcess.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jade/view/loadview/WavingView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/aaaaa.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_keyboard.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/password_hide.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/password_see.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-w820dp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/read/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/read/libs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/read/proguard-rules.pro" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/read/src" charset="GBK" />
+  </component>
+</project>

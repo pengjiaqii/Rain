@@ -5,12 +5,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.numdemo.MainActivity">
+    tools:context="com.jade.view.MainActivity">
 
-    <com.example.numdemo.NumRain
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:lightColor="#ffffff00"
+    <com.jade.view.loadview.WavingView
+        android:id="@+id/load_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/aaaaa"
         />
 
 </FrameLayout>
