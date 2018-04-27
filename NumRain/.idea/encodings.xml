@@ -8,9 +8,14 @@
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/password_hide.png" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/password_see.png" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/values-w820dp" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/read/build.gradle" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/read/libs" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/read/proguard-rules.pro" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/read/src" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gestureunlock/src/main/java/com/jade/gesture/CircleSpace.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gestureunlock/src/main/java/com/jade/gesture/GuestureButton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gestureunlock/src/main/java/com/jade/gesture/GuestureButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gestureunlock/src/main/java/com/jade/gesture/GuestureLayout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gestureunlock/src/main/java/com/jade/gesture/GuestureLayout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gestureunlock/src/main/java/com/jade/gesture/onSelectDone.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gestureunlock/src/main/java/com/jade/gesture/utils/GestureJniUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gestureunlock/src/main/java/com/jade/gesture/utils/SPUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gestureunlock/src/main/java/m520it_com_touna_util_GestureJniUtil.h" charset="GBK" />
   </component>
 </project>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NumRain.iml" filepath="$PROJECT_DIR$/NumRain.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestureunlock/gestureunlock.iml" filepath="$PROJECT_DIR$/gestureunlock/gestureunlock.iml" />
     </modules>
   </component>
 </project>
